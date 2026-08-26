@@ -24,6 +24,10 @@ Verify that the user can remove a selected product from the shopping cart.
 ## Update quantity 
 Verify that the user can update the quantity of a product in the shopping cart.
 
+## logout 
+Verify that the user can logout of the application.
+
+
 ## checkout 
 Verify that the user can checkout
 
